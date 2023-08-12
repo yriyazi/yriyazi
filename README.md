@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yriyazi" alt="yriyazi" /></a> </p>
 
-- 🔭 I’m currently working on [AAAAAAAAAAA](AAAAAAAAAa)
-
 - 🌱 I’m currently learning **Reinforcement Learning (RL)**
-
-- 👯 I’m looking to collaborate on [AAAAAAAAAAA](AAAAAAAAAAAA)
-
-- 🤝 I’m looking for help with [AAAAAAAAAAAA](AAAAAAAAAAAA)
 
 - 👨‍💻 All of my projects are available at / 📝 I regularly write articles on / 📄 Know about my experiences [yriyazi.github.io/](yriyazi.github.io/)
 
