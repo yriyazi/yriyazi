@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning (RL)**
 
-- 👨‍💻 All of my projects are available at / 📝 I regularly write articles on / 📄 Know about my experiences [Link Text](https://yriyazi.github.io/)
+- 👨‍💻 All of my projects are available at / 📝 I regularly write articles on / 📄 Know about my experiences [yriyazi.github.io](https://yriyazi.github.io/)
 
 
 - 💬 Ask me about **Ai in Mechanical Engineering**
