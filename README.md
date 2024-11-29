@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yassin Riyazi (yriyazi)</h1>
-<h3 align="center">I'm a engineer with expertise in control systems, nonlinear vibration analysis, and deep learning. I'm passionate about developing intelligent systems that can solve real-world problems. I have experience in implementing various deep learning techniques such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs) for predictive maintenance and fault diagnosis.</h3>
+<h1 align="center">Hi 👋, I'm yriyazi (Yassin Riyazi / Jassin Rijasi)</h1>
+<h3 align="center">I'm an engineer with control systems, nonlinear vibration analysis, and deep learning expertise. I'm passionate about developing intelligent systems that can solve real-world problems. I have experience in implementing various deep learning techniques such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs) for predictive maintenance and fault diagnosis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yriyazi&label=Profile%20views&color=0e75b6&style=flat" alt="yriyazi" /> </p>
 
