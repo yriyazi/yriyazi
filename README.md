@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yassin-riyazi-3aa5b6164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassin-riyazi-3aa5b6164" height="30" width="40" /></a>
-<a href="https://kaggle.com/fill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fill" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/yassinriayazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fill" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iyasiniyasin98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iyasiniyasin98" height="30" width="40" /></a>
 </p>
 
