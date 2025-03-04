@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm yriyazi (Yassin Riyazi / Jassin Rijasi)</h1>
-<h3 align="center">I'm an engineer with control systems, nonlinear vibration analysis, and deep learning expertise. I'm passionate about developing intelligent systems that can solve real-world problems. I have experience in implementing various deep learning techniques such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs) for predictive maintenance and fault diagnosis.</h3>
+<h3 align="center">I'm an engineer with control systems, nonlinear vibration analysis, and deep learning expertise. I'm passionate about developing intelligent systems that can solve real-world problems. I have experience in implementing various deep learning techniques, such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs), for predictive maintenance and fault diagnosis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yriyazi&label=Profile%20views&color=0e75b6&style=flat" alt="yriyazi" /> </p>
 
@@ -7,20 +7,19 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning (RL)**
 
-- 👨‍💻 All of my projects are available at / 📝 I regularly write articles on / 📄 Know about my experiences [yriyazi.github.io](https://yriyazi.github.io/)
+- 📄 Know about my experiences/research [yriyazi.github.io](https://yriyazi.github.io/)
 
 
 - 💬 Ask me about **Ai in Mechanical Engineering**
 
 - 📫 How to reach me **iyasiniyasin98@gmail.com**
 
-- ⚡ Fun fact **I'm a mechanical engineer**
+- ⚡ Fun fact **I'm a member of the Max Planck Group**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yassin-riyazi-3aa5b6164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassin-riyazi-3aa5b6164" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/yassinriayazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fill" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iyasiniyasin98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iyasiniyasin98" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
